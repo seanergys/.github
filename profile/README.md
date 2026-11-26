@@ -1,7 +1,7 @@
 # SEANERGYS Public Software Repository
 Software for Efficient and Energy-Aware Supercomputers
 
-![![logo](https://raw.githubusercontent.com/seanergys/.github/refs/heads/main/profile/logo-seanergys-padded.png)](https://seanergys.eu/)
+[![logo](https://raw.githubusercontent.com/seanergys/.github/refs/heads/main/profile/logo-seanergys-padded.png)](https://seanergys.eu/)
 
 In this GitHub Org [SEANERGYS](https://seanergys.eu/) publishes software.
 For additional information, please visit [our website](https://seanergys.eu/).
