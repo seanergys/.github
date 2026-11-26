@@ -1,0 +1,54 @@
+# SPDX-FileCopyrightText: 2026 SEANERGYS Partners <https://seanergys.eu>
+#
+# SPDX-License-Identifier: MIT
+
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+
+# Temporary
+.netrwhist
+*~
+\#*#
+
+# Auto-generated tag files
+tags
+GPATH
+GRTAGS
+GTAGS
+
+# YCM (vim) files
+.ycm_extra_conf.py
+
+build*/
+
+# crashlogs
+*.crash
+
+
+# nix build files
+result
+outputs
+
+.aider*
+
+# Added by cargo
+
+/target
+
+gantt.puml
+gantt.png
+
+
+.env
+
+gitlab-group.toml
+aux.toml
+
+.RData
+cobertura.xml
